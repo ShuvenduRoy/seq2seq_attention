@@ -5,6 +5,6 @@ The network will input a date written in a variety of possible formats (e.g. "th
 
 ## Architecture of the model 
 ### Attention model
-![](images/attn_model.png)
+![](resources/attn_model.png)
 ### Attention mechanism
-![](images/attn_mechanism.png)
+![](resources/attn_mechanism.png)
